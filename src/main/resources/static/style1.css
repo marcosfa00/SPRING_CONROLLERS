@@ -1,0 +1,17 @@
+/* Estilos para el cuerpo de la página */
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Color de fondo gris claro */
+    color: #333;
+}
+
+/* Estilos para el encabezado h1 */
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2.5em;
+    color: #007bff; /* Color azul */
+}
